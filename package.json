@@ -8,5 +8,9 @@
   },
   "keywords": [],
   "author": "John Varga <john.varga@inviewlabs.com> (http://www.inviewlabs.com)",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "bitbucket-api": "0.0.7",
+    "http-server": "^0.8.5"
+  }
 }
